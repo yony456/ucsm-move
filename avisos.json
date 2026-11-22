@@ -1,0 +1,33 @@
+[
+  {
+    "id": "2026-11-22-retraso-norte",
+    "tipo": "retraso",
+    "ruta": "N",
+    "efecto": "retraso",
+    "min": 15,
+    "activo": true,
+    "titulo": "Ruta Norte: salida con retraso",
+    "mensaje": "Estimados estudiantes: el bus de la Ruta Norte iniciará su recorrido con 15 minutos de retraso debido a la congestión vehicular en la Av. Ejército. Agradecemos su comprensión.",
+    "fecha": "22 nov 2026"
+  },
+  {
+    "id": "2026-11-20-taller-este",
+    "tipo": "taller",
+    "ruta": "E",
+    "efecto": "info",
+    "activo": false,
+    "titulo": "Ruta Este: unidad en mantenimiento",
+    "mensaje": "Informamos que la unidad V2D-338 ingresó a taller para su mantenimiento preventivo. El servicio se cubrió con una unidad de reemplazo. Lamentamos las molestias.",
+    "fecha": "20 nov 2026"
+  },
+  {
+    "id": "2026-11-15-huelga",
+    "tipo": "suspension",
+    "ruta": "todas",
+    "efecto": "suspendido",
+    "activo": false,
+    "titulo": "Servicio suspendido por paro de transportistas",
+    "mensaje": "Comunicamos a la comunidad universitaria que hoy no habrá servicio de transporte debido al paro regional de transportistas por el alza del combustible. El servicio se reanudará con normalidad mañana.",
+    "fecha": "15 nov 2026"
+  }
+]
