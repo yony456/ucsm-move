@@ -1,7 +1,7 @@
 {
-  "name": "UNSA Move",
-  "short_name": "UNSA Move",
-  "description": "Transporte universitario UNSA en tiempo real",
+  "name": "UCSM Move",
+  "short_name": "UCSM Move",
+  "description": "Transporte universitario UCSM en tiempo real",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
